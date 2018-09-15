@@ -4,4 +4,4 @@
 
 homepage:
     path: /home
-    controller: App\Controller\HomeController::welcome
+    controller: App\Controller\HomeController::welcome    controller: App\Controller\HomeController::welcome
